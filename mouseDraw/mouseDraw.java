@@ -24,8 +24,7 @@ public class mouseDraw {
 			
 			frame = new CanvasFrame();
 			frame.setTitle("Mouse Draw");
-			frame.setVisible(true);
-			
+			frame.setVisible(true);			
 			frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 			
 		});
